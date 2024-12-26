@@ -64,12 +64,14 @@ end
 endmodule
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/user-attachments/assets/d7b052d0-54bb-447d-bc5f-91ccd4ecce8b)
+**RTL LOGIC FOR JK-FLIPFLOP**
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot_20241210_180003 1](https://github.com/user-attachments/assets/75069fe1-6c86-48a6-8d1d-808bf7bbd81d)
+![image](https://github.com/user-attachments/assets/c37e995a-18d6-45d5-84c7-680f75f83328)
 
-**RESULTS**
+**TIMING DIAGRAM FOR JK-FLIP FLOP**
+
+![image](https://github.com/user-attachments/assets/3ee70894-4db9-4275-849d-de85ecfc39ff)
+
+**RESULT**
 JK flipflop using verilog and validating their functionality using their functional tables is verified.
 
